@@ -1,5 +1,4 @@
-
-This is a repository of public computer science papers
+This is a repository of public computer science papers and whitepapers
 
 Distributed Systems
 =====================
